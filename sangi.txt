@@ -1,1 +1,5 @@
-hello sangi mangi brothers
+<<<<<<< HEAD
+hello sangi mangi brothers?????
+=======
+hello mangi mongi brothers!!!!!!
+>>>>>>> done by user2
